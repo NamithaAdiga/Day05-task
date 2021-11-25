@@ -1,0 +1,48 @@
+Day05/output
+
+PS D:\Guvi\Day 5> node odd.js
+[ 1, 3, 5, 7, 9 ]
+
+PS D:\Guvi\Day 5> node median.js
+[
+  1, 2, 3, 4,
+  5, 6, 7, 8 
+]
+4.5
+
+PS D:\Guvi\Day 5> node paliondrome.js
+true
+
+PS D:\Guvi\Day 5> node prime.js
+[ 2, 3, 5, 7 ]
+
+PS D:\Guvi\Day 5> node rotate.js
+[ 5, 1, 2, 3, 4 ]
+
+PS D:\Guvi\Day 5> node sum.js
+15
+
+PS D:\Guvi\Day 5> node titlecaps.js
+I'm A Little Tea Pot
+
+PS D:\Guvi\Day 5> node duplicate.js
+[ 1, 2, 5, 8 ]
+
+
+
+
+//PART-B ARROW FUNCTION
+PS D:\Guvi\Day 5\Part B> node oddb.js
+[ 1, 5, 7, 9 ]
+
+PS D:\Guvi\Day 5\Part B> node paliondromeb.js
+true
+
+PS D:\Guvi\Day 5\Part B> node primeb.js
+[ 2, 5, 101 ]
+
+PS D:\Guvi\Day 5\Part B> node sumb.js
+15
+
+PS D:\Guvi\Day 5\Part B> node titlecapsb.js
+I'm A Little Tea Pot
